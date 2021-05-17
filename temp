@@ -1,0 +1,4 @@
+setInterval(CargarFichero, 2000)
+function CargarFichero(){
+  loadDocA("...xml","xml")
+}
