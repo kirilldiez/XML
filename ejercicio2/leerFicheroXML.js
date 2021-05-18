@@ -1,6 +1,6 @@
 function gestionarFicheroXML(xmlDoc){
 	
-	let capaVacia = document.querySelector("#ficheroXML")
+	let capaVacia = document.querySelector("#xml")
 	let msgs = xmlDoc.querySelectorAll("msg")
 	for(let i=0; i<msgs.length; i++)
 		if (i % 2 == 0){
