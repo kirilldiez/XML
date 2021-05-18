@@ -8,8 +8,7 @@
 		Hola, justo iba a escribirte :)
 	</msg>
 	<msg> 
-		A si? Como me alegra oir eso, queria decirte 
-        si te apetece ir a tomar una cerveza
+		A si? Como me alegra oir eso,\nqueria decirte si te apetece\nir a tomar una cerveza
 	</msg>
        	<msg> 
 		Claro, a que hora?
@@ -27,8 +26,7 @@
 		Genial!! Me recoges?
 	</msg>
 	<msg> 
-		Por supuesto, te veo en nada :P
-        Preparate para perder en el billar xd
+		Por supuesto, te veo en nada :P\nPreparate para perder en el billar xd
 	</msg>
         <msg> 
 		El que va a perder eres tu ;)
