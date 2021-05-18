@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <conversacion>
 	<chat>
-		<msg> 
-			Hola!!
-		</msg>
-		<msg> 
-			Hola, justo iba a escribirte :)
-		</msg>
-		<msg> 
-			¿A si? Como me alegra oir eso, queria decirte 
-           		si te apetece ir a tomar una cerveza
-		</msg>
+	<msg> 
+		Hola!!
+	</msg>
+	<msg> 
+		Hola, justo iba a escribirte :)
+	</msg>
+	<msg> 
+		¿A si? Como me alegra oir eso, queria decirte\n 
+           	si te apetece ir a tomar una cerveza
+	</msg>
+       	<msg> 
+		Claro, a que hora?
+	</msg>
+	<msg> 
+		A que hora te viene bien?
+	</msg>
+	<msg> 
+		Me viene bien cuando te venga bien a ti jejej
+	</msg>
         <msg> 
-			Claro, a que hora?
-		</msg>
-		<msg> 
-			A que hora te viene bien?
-		</msg>
-		<msg> 
-			Me viene bien cuando te venga bien a ti jejej
-		</msg>
+		Pues que te parece a las 17:00?
+	</msg>
+	<msg> 
+		Genial!! Me recoges?
+	</msg>
+	<msg> 
+		Por supuesto, te veo en nada :P\n
+            	Preparate para perder en el billar xd
+	</msg>
         <msg> 
-			Pues que te parece a las 17:00?
-		</msg>
-		<msg> 
-			Genial!! Me recoges?
-		</msg>
-		<msg> 
-			Por supuesto, te veo en nada :P
-            		Preparate para perder en el billar xd
-		</msg>
-        <msg> 
-			El que va a perder eres tu ;)
-		</msg>
-		<msg> 
-			Eso ya lo veremos guapa hahah!!
-		</msg>
-		<msg> 
-			Hasta pronto
-		</msg>
+		El que va a perder eres tu ;)
+	</msg>
+	<msg> 
+		Eso ya lo veremos guapa hahah!!
+	</msg>
+	<msg> 
+		Hasta pronto
+	</msg>
 	</chat>
 </conversacion>
