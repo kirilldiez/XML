@@ -20,3 +20,10 @@ body{
     width:320;
 }
 
+.impar{
+text-align: right;
+}
+
+.par{
+text-align: left;
+}
