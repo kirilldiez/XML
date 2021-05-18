@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <conversacion>
-	<chat>
+<chat>
 	<msg> 
 		Hola!!
 	</msg>
@@ -46,5 +46,5 @@
 	<msg> 
 		<3
 	</msg>
-	</chat
+</chat>
 </conversacion>
