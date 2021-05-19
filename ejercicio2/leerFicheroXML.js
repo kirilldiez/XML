@@ -11,4 +11,8 @@ function gestionarFicheroXML(xmlDoc){
 		}
 		
 }
-	loadDocA("conversacion.xml","xml");
+	setInterval(CargarFichero, 2000)
+		function CargarFichero(){
+  			loadDocA("conversacion.xml","xml")
+}
+
