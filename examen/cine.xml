@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="ISO-8859-15"?> 
 <cartelera>
 	<peliculas>
-		<peli>
+		<pelicula>
 			<nombre>Pelicula1</nombre>
 			<director>Nombre1</nombre>
 			<estreno>12/12/20</estreno>
-		</peli>
-		<peli>
+		</pelicula>
+		<pelicula>
 			<nombre>Pelicula2</nombre>
 			<director>Nombre2</nombre>
 			<estreno>12/12/97</estreno>
 		</peli>
 	</peliculas>
+</cartelera>
