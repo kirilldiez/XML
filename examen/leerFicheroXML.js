@@ -1,7 +1,7 @@
 function gestionarFicheroXML(xmlDoc){
 	
 	let capaVacia = document.querySelector("#xml")
-	let peliculas = xmlDoc.querySelectorAll("peli")
+	let peliculas = xmlDoc.querySelectorAll("pelicula")
 	for(let i=0; i<peliculas.length; i++)
 		capaVacia.innerHTML = capaVacia.innerHTML + "<p class='cine'>" + peliculas[i].textContent + "</p>";
 }
