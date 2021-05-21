@@ -1,4 +1,5 @@
 function gestionarFicheroXML(xmlDoc){
+	console.log()
 	let capaVacia = document.querySelector("#xml");
 	let pelis = xmlDoc.querySelectorAll("pelicula");
 	for(let i=0; i<pelis.length; i++){
@@ -6,3 +7,4 @@ function gestionarFicheroXML(xmlDoc){
 	}
 }
 	loadDocA("cine.xml","xml");
+	console.log(xmlDoc);
