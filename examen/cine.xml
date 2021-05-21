@@ -4,11 +4,11 @@
 		<peli>
 			<nombre>Pelicula1</nombre>
 			<director>Nombre1</nombre>
-			<fecha>12/12/20</fecha>
+			<estreno>12/12/20</estreno>
 		</peli>
 		<peli>
 			<nombre>Pelicula2</nombre>
 			<director>Nombre2</nombre>
-			<fecha>12/12/97</fecha>
+			<estreno>12/12/97</estreno>
 		</peli>
 	</peliculas>
